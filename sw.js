@@ -3,7 +3,7 @@ const CACHE_NAME = 'pwa-sample-caches-v1';
 const urlsToCache = [
   './',
   './index.html',
-  '87478222_60x60.png.jpeg',
+  './egg.png',
   './sw.js',
   './manifest.json'
 ];
