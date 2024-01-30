@@ -1,0 +1,15 @@
+{
+  "name": "謎ヨッシー",
+  "short_name": "なぞ",
+  "theme_color": "FF0000"
+  "background_color": "FFFFFF",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "icons": [
+    {
+      "src": "87478222_60x60.png.jpeg",
+      "sizes": "87478222_60x60.png.jpeg",
+      "type": "image/jpeg"
+    }
+  ]
+}
